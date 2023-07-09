@@ -227,3 +227,5 @@ cython_debug/
 
 #vpn file!
 c1948118.ovpn
+
+.vscode
